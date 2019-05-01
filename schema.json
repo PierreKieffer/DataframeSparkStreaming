@@ -1,0 +1,1 @@
+{"type":"struct","fields":[{"name":"colName","type":"integer","nullable":false,"metadata":{}},{"name":"colName2","type":"string","nullable":false,"metadata":{}}]}

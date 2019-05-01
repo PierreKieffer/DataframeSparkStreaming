@@ -1,0 +1,16 @@
+
+/*
+Save schema
+
+      import java.io.{File, PrintWriter}
+
+      val schema = dataFrame.schema.json
+      val writer = new PrintWriter(new File("/home/.../schema.json"))
+      writer.write(schema)
+      writer.close()
+
+Define schema
+      val customSchema = StructType(Array(
+      StructField("ColName1", StringType, true),
+      StructField("ColName2", StringType, true)))
+ */

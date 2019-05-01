@@ -1,0 +1,8 @@
+
+###############################
+#### General configuration ####
+###############################
+
+INPUT_PATH: "/path/to/files"
+JSON_SCHEMA_PATH: "/path/to/files/schema.json"
+FORMAT: "csv"

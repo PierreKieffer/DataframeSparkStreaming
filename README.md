@@ -1,5 +1,5 @@
 # DataframeSparkStreaming
-This appliction is an easy implementation of Apache Spark Streaming for dataframes 
+This application is an easy implementation of Apache Spark Streaming for dataframes 
 
 This app is launching a spark streaming that will read csv or parquet files inside a local repository, apply a processing function and display the result in the console.
 
